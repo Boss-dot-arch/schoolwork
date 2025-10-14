@@ -7,7 +7,7 @@ int main(){
     switch(x)
     {
         case 1:cout<<"one ";break;
-        case 2:cout<<"two  \t";
+        case 2:
         case 3:cout<<"three \n";
         default:cout<<"other\t ";
     }
